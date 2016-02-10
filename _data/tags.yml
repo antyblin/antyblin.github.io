@@ -1,0 +1,10 @@
+apache:
+    name: apache
+mysql:
+    name: mysql
+php:
+    name: php
+postgresql:
+    name: postgresql
+wamp:
+    name: wamp
