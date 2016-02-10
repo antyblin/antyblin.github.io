@@ -1,10 +1,10 @@
-apache:
-    name: apache
-mysql:
-    name: mysql
-php:
-    name: php
-postgresql:
-    name: postgresql
-wamp:
-    name: wamp
+- slug: apache
+  name: apache
+- slug: mysql
+  name: mysql
+- slug: php
+  name: php
+- slug: postgresql
+  name: postgresql
+- slug: wamp
+  name: wamp
