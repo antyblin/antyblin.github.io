@@ -23,11 +23,11 @@ PHP качаем [отсюда](http://windows.php.net/download/) архивом
 
 ##Инструменты разработки
 
-1.IDE — [PhpStorm](http://www.jetbrains.com/phpstorm/) (к слову, [EAP-версией](http://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program) можно пользоваться бесплатно совершенно легально);
-2.Контроль версий — SVN ([TortoiseSVN](http://tortoisesvn.net/downloads.html));
-3.Total Commander — помогает быстро перемещаться по директориям, также является неплохим FTP-клиентом;
-4.[Babun](http://babun.github.io/) — эмулятор линуксового шелла с поддержкой zsh, пакетным менеджером pact и другими вкусностями; надстройка над [Cygwin](https://www.cygwin.com/);
-5.[Sublime Text](https://antyblin.wordpress.com/2014/09/12/%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b0-%d0%b8-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9%d0%ba%d0%b0-%d0%bb%d0%be%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%b2%d0%b5%d0%b1/www.sublimetext.com/3) — лучший текстовый редактор из тех, что я встречал, быстрый, удобный, лёгкий;
-6.EMS MySQL Manager и PostgreSQL Manager значительно упрощают работу с БД;
-7.Toad Data Modeller — для построения схем БД с возможностью экспорта в SQL-файл;
-8.[Fiddler](http://www.telerik.com/download/fiddler) — прокси, позволяющий работать с трафиком между локальным компьютером и удалённым сервером.
+1. IDE — [PhpStorm](http://www.jetbrains.com/phpstorm/) (к слову, [EAP-версией](http://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program) можно пользоваться бесплатно совершенно легально);
+2. Контроль версий — SVN ([TortoiseSVN](http://tortoisesvn.net/downloads.html));
+3. Total Commander — помогает быстро перемещаться по директориям, также является неплохим FTP-клиентом;
+4. [Babun](http://babun.github.io/) — эмулятор линуксового шелла с поддержкой zsh, пакетным менеджером pact и другими вкусностями; надстройка над [Cygwin](https://www.cygwin.com/);
+5. [Sublime Text](https://antyblin.wordpress.com/2014/09/12/%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b0-%d0%b8-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9%d0%ba%d0%b0-%d0%bb%d0%be%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%b2%d0%b5%d0%b1/www.sublimetext.com/3) — лучший текстовый редактор из тех, что я встречал, быстрый, удобный, лёгкий;
+6. EMS MySQL Manager и PostgreSQL Manager значительно упрощают работу с БД;
+7. Toad Data Modeller — для построения схем БД с возможностью экспорта в SQL-файл;
+8. [Fiddler](http://www.telerik.com/download/fiddler) — прокси, позволяющий работать с трафиком между локальным компьютером и удалённым сервером.
